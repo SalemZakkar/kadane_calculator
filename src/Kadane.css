@@ -1,0 +1,48 @@
+.formBox {
+  background-color: #0d161e;
+  text-align: center;
+  padding: 16px  64px  16px 64px;
+  border-radius: 12px;
+}
+
+.inputBox input {
+  font-family: "Cairo", sans-serif;
+  width: 100%;
+  padding: 16px;
+  border-radius: 60px;
+  outline: none;
+  border: none;
+  color: white;
+  background-color: #263744;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 16px;
+  background-color: #ff6500;
+  border: none;
+  border-radius: 12px;
+  color: white;
+}
+
+.inputBox input::placeholder {
+  color: white;
+}
+
+h1 {
+  margin: 0;
+  color: white;
+  font-family: "Cairo", sans-serif;
+}
+
+.resultBox {
+  font-family: "Cairo", sans-serif;
+  text-align: center;
+  padding: 16px;
+  border-radius: 12px;
+  outline: none;
+  border: none;
+  color: #ff6500;
+  background-color: #0d161e;
+  box-sizing: border-box;
+}
